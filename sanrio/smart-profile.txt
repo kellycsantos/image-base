@@ -1,0 +1,126 @@
+{
+  "firstName" : "Kelly",
+  "lastName" : "Cristina dos Santos Ramos",
+  "email" : "kellycristinasntos@gmail.com",
+  "professionalTitle" : null,
+  "avatarUrl" : null,
+  "avatarMetadataId" : null,
+  "phoneNumber" : "+5511964322839",
+  "aboutMe" : null,
+  "location" : {
+    "id" : null,
+    "country" : "Brazil",
+    "countryCode" : "br",
+    "region" : null,
+    "regionCode" : "sp",
+    "city" : "São Paulo",
+    "addressLine" : null,
+    "zip" : null,
+    "lat" : "-23.5557714",
+    "lng" : "-46.6395571"
+  },
+  "web" : {
+    "linkedIn" : "https://www.linkedin.com/in/kelly-cristina-santos-132b09227/",
+    "facebook" : null,
+    "twitter" : null,
+    "website" : "https://github.com/kellycsantos"
+  },
+  "sharingOption" : null,
+  "completenessRatio" : 70,
+  "coverVideoUrl" : null,
+  "openToRemote" : false,
+  "languages" : [ ],
+  "skills" : [ ],
+  "customSkills" : [ ],
+  "education" : [ {
+    "educationId" : "6d8567a6-4516-4d8c-bcf3-7d901e1851af",
+    "institution" : "Universidade cidade verde",
+    "institutionCanonicalId" : null,
+    "degree" : "Ensino Superior cursando ou interrompido",
+    "major" : "Sistemas para internet",
+    "current" : true,
+    "startDate" : {
+      "year" : 2021,
+      "month" : 1,
+      "day" : null
+    },
+    "endDate" : null,
+    "location" : null,
+    "description" : ""
+  }, {
+    "educationId" : "94def21d-5fe9-4a1d-975c-18f14d2f7fb6",
+    "institution" : "Etec Adhemar Batista Hemeritas",
+    "institutionCanonicalId" : null,
+    "degree" : "Ensino Técnico completo",
+    "major" : "Manutenção e suporte a informática",
+    "current" : false,
+    "startDate" : {
+      "year" : 2019,
+      "month" : 8,
+      "day" : null
+    },
+    "endDate" : {
+      "year" : 2020,
+      "month" : 12,
+      "day" : null
+    },
+    "location" : null,
+    "description" : ""
+  }, {
+    "educationId" : "e57cc694-8cdc-42ce-9190-d73cf6bd548a",
+    "institution" : "UNINOVE",
+    "institutionCanonicalId" : null,
+    "degree" : "Ensino Superior completo",
+    "major" : "Gestão de tecnologia da informação",
+    "current" : false,
+    "startDate" : {
+      "year" : 2017,
+      "month" : 2,
+      "day" : null
+    },
+    "endDate" : {
+      "year" : 2019,
+      "month" : 8,
+      "day" : null
+    },
+    "location" : null,
+    "description" : ""
+  } ],
+  "experience" : [ {
+    "experienceId" : "082a2dd5-192d-49a0-886f-c896965755ea",
+    "title" : "Suporte Técnico",
+    "titleCanonicalId" : null,
+    "company" : "COLÉGIO DOM BOSCO",
+    "companyCanonicalId" : null,
+    "current" : true,
+    "startDate" : {
+      "year" : 2021,
+      "month" : 6,
+      "day" : null
+    },
+    "endDate" : null,
+    "location" : null,
+    "description" : "Realizo suporte técnico ao departamento administrativo e pedagógico além de acompanhar o funcionamento da rede Wi-Fi e cabeada para manutenções preventivas e corretivas."
+  }, {
+    "experienceId" : "bb7a6053-35a4-4bd2-a1ef-d2f8c80624c1",
+    "title" : "Operador de Telemarketing",
+    "titleCanonicalId" : null,
+    "company" : "Recuperadora Nacional de Créditos",
+    "companyCanonicalId" : null,
+    "current" : false,
+    "startDate" : {
+      "year" : 2018,
+      "month" : 6,
+      "day" : null
+    },
+    "endDate" : {
+      "year" : 2020,
+      "month" : 8,
+      "day" : null
+    },
+    "location" : null,
+    "description" : ""
+  } ],
+  "atsPublishViolations" : [ ],
+  "attachments" : [ ]
+}
